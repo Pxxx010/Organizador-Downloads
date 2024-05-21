@@ -26,7 +26,7 @@ Este script em Python organiza arquivos em pastas com base em suas extensões. E
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/Pxxx010/organizador-python
+    git clone https://github.com/Pxxx010/Organizador-Downloads
     ```
 2. Navegue até o diretório do projeto:
     ```bash
